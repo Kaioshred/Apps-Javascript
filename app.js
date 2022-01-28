@@ -87,4 +87,5 @@ songsContainer.addEventListener('click', e => {
         prevAndNextContainer.innerHTML = ''
         fetchLyrics(artist, songTitle);
     }
+    //teste de mudança de branch
 })
